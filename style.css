@@ -1,0 +1,19 @@
+.body_background {
+    background-image:"bg2.jpg";
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    color: lightslategrey;
+    font-size: 40px;
+}
+
+#myCanvas {
+    background-color: white;
+    border-style: ridge;
+}
+
+span {
+    font-size: 20px;
+}
